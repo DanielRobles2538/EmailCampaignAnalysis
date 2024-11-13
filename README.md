@@ -63,3 +63,14 @@ Para ver el análisis en Power BI:
 Este proyecto demuestra habilidades avanzadas en **análisis de datos**, **Power BI**, y **DAX**, así como capacidad para **documentar y estructurar proyectos** en GitHub. Cada paso del análisis fue diseñado para maximizar el valor de los datos y proporcionar insights estratégicos, siguiendo buenas prácticas en modelado de datos y visualización.
 
 ---
+## Contacto
+
+
+- **Email:** [danielroblesaller@gmail.com](mailto:danielroblesaller@gmail.com)
+- **LinkedIn:** [Daniel Robles](https://www.linkedin.com/in/danielroblesaller)
+
+---
+
+**¡Gracias por visitar mi repositorio!**
+
+---
