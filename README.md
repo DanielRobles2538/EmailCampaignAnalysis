@@ -12,7 +12,7 @@ Este proyecto analiza el rendimiento de una serie de campañas de marketing por 
 
 ## **Archivos en el Repositorio**
 
-- **`EmailCampaignAnalysis.pbix`**: Archivo de Power BI con el modelo de datos, medidas DAX, visualizaciones y configuraciones de segmentación.
+- **`Marketing_mail_vA.pbix`**: Archivo de Power BI con el modelo de datos, medidas DAX, visualizaciones y configuraciones de segmentación.
 - **`Conclusiones_Análisis.pdf`**: Informe en PDF con un resumen detallado de los hallazgos y recomendaciones estratégicas para optimizar el rendimiento de las campañas.
 - **`README.md`**: Documento de introducción y descripción del proyecto (este archivo).
 
@@ -54,7 +54,7 @@ Este proyecto analiza el rendimiento de una serie de campañas de marketing por 
 ## **Cómo Visualizar el Proyecto**
 
 Para ver el análisis en Power BI:
-1. Descargue el archivo **EmailCampaignAnalysis.pbix**.
+1. Descargue el archivo **Marketing_mail_vA.pbix**.
 2. Ábralo en Power BI Desktop para explorar el modelo de datos, las visualizaciones y las medidas DAX.
 3. Consulte el archivo **Conclusiones_Análisis.pdf** para una descripción detallada de los hallazgos clave y recomendaciones.
 
