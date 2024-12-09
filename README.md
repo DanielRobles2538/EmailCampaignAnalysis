@@ -1,4 +1,4 @@
-# 📊 Análisis de Campañas de Marketing por Email  
+# 📊 Análisis de Campañas de Marketing por Email 📧
 **Autor:** [Daniel Robles Aller](www.linkedin.com/in/danielroblesaller) 
 
 **Tecnologías Utilizadas:** Power BI, DAX, Power Query  
